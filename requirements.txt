@@ -1,0 +1,12 @@
+langchain-google-genai
+
+python-dotenv
+flask
+gunicorn
+bs4
+langchain
+langchain-community
+chromadb
+langchain-core
+langchain-text-splitters
+langchain-chroma
